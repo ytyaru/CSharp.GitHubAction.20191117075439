@@ -1,7 +1,6 @@
 ﻿# このソフトウェアについて
 
 ![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/.github/workflows/csc/badge.svg)
-![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/.github/workflows/.NET%20Core/badge.svg)
 
 　GitHubActionを試してみる。
 
