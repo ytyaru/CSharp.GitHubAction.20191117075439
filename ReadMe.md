@@ -1,5 +1,7 @@
 ﻿# このソフトウェアについて
 
+![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/.github/workflows/dotnetcore.yml/badge.svg)
+
 　GitHubActionを試してみる。
 
 # 開発環境
