@@ -15,4 +15,4 @@ jobs:
         dotnet-version: 2.2.108
     - name: Build with csc
       working-directory: src
-      run: csc *.cs
+      run: csc -nologo -recurse:*.cs
