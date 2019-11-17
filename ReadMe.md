@@ -24,13 +24,15 @@ Build%20with%20csc
 ### ymlパスによる指定
 
 ![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/workflows/.github/workflows/csc.yml/badge.svg)
+![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/.github/workflows/csc.yml/badge.svg)
+![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/workflows/csc.yml/badge.svg)
 
 ```md
 ![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/workflows/.github/workflows/csc.yml/badge.svg)
 ![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/.github/workflows/csc.yml/badge.svg)
+![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/workflows/csc.yml/badge.svg)
 ```
 
-![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/.github/workflows/csc.yml/badge.svg)
 
 # 開発環境
 
