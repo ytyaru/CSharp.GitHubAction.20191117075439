@@ -1,6 +1,12 @@
 ﻿# このソフトウェアについて
 
+csc
+
 ![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/.github/workflows/csc/badge.svg)
+
+Build%20with%20csc
+
+![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/.github/workflows/Build%20with%20csc/badge.svg)
 
 　GitHubActionを試してみる。
 
