@@ -1,14 +1,36 @@
 ﻿# このソフトウェアについて
 
+　GitHubActionを試してみる。
+
+## ステータスバッジ
+
+* https://help.github.com/ja/actions/automating-your-workflow-with-github-actions/configuring-a-workflow#adding-a-workflow-status-badge-to-your-repository
+
+### ワークフロー名によるURL
+
 csc
 
-![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/.github/workflows/csc/badge.svg)
+![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/workflows/csc/badge.svg)
 
 Build%20with%20csc
 
-![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/.github/workflows/Build%20with%20csc/badge.svg)
+![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/workflows/Build%20with%20csc/badge.svg)
 
-　GitHubActionを試してみる。
+```md
+![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/workflows/csc/badge.svg)
+![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/workflows/Build%20with%20csc/badge.svg)
+```
+
+### ymlパスによる指定
+
+![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/workflows/.github/workflows/csc.yml/badge.svg)
+
+```md
+![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/workflows/.github/workflows/csc.yml/badge.svg)
+![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/.github/workflows/csc.yml/badge.svg)
+```
+
+![](https://github.com/ytyaru/CSharp.GitHubAction.20191117075439/.github/workflows/csc.yml/badge.svg)
 
 # 開発環境
 
